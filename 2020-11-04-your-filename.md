@@ -13,7 +13,7 @@ font-size: 3rem;
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
   height: auto;
   margin: 0 auto;
